@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/portfolio/pen.jpg"
-date = "2017-01-22"
+date = "2017-12-20T21:07:00-06:00"
 title = "Olive Wood Pen"
 weight = 0
 +++
