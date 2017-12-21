@@ -4,7 +4,7 @@ title = "Cribbage Board"
 draft = false
 image = "img/portfolio/cribbage-board.jpg"
 showonlyimage = true
-weight = 1
+weight = 0
 +++
 
 Cribbage, or crib, is a card game traditionally for two players, but commonly played with three, four or more, that involves playing and grouping cards in combinations which gain points. Cribbage has several distinctive features: the cribbage board used for score-keeping, the eponymous crib or box (a separate hand counting for the dealer), two distinct scoring stages (the play and the show) and a unique scoring system including points for groups of cards that total fifteen.
