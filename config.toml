@@ -1,4 +1,4 @@
-baseurl = "http://staingrainwood.com/"
+baseurl = "https://staingrainwood.com/"
 title = "Stain and Grain Woodcrafts"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
