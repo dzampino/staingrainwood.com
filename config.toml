@@ -11,8 +11,8 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "green"
-  description = "Describe your website"
-  copyright = "&copy;2017 Stain and Grain Woodcrafts"
+  description = "Handcrafted wood items for sale"
+  copyright = "&copy;2018 Stain and Grain Woodcrafts"
   sidebarAbout = [
     "Bringing over 35 years of woodworking experience to Southeastern Wisconsin.",
   ]
