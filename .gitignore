@@ -1,3 +1,6 @@
 .DS_Store
+.gitignore
 themes/
 public/
+publish.bat
+publishScript.ps1
